@@ -56,16 +56,6 @@
 **Tools:** Git, GitHub, VS Code
 **Design Tools:** Figma, Canva, Procreate
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyadas1803git&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyadas1803git&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🤝 Connect With Me
 
 <p>
